@@ -134,4 +134,4 @@ Impact areas: reduced time and manual effort on routine tasks; improved accuracy
 
 ## Demo
 
-[🎥 Watch Demo](https://github.com/user-attachments/assets/86026355-a213-4608-9418-52becff00a0c)
+[🎥 Watch Demo]([https://github.com/user-attachments/assets/86026355-a213-4608-9418-52becff00a0c](https://github.com/user-attachments/assets/e2e248a3-8483-4e89-868a-2d3e443ae85c))
