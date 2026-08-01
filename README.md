@@ -67,14 +67,11 @@ Everything runs **fully on-premises**. No fab data, no IP-sensitive process info
 
 ## Architecture
 
-![Architecture overview](assets/architecture-overview.png)
+End-to-end flow: natural-language question → ReAct agent → MCP tool selection → lakehouse and object storage → table, chart and defect image returned inline. Everything inside the dashed boundary runs on-premises.
 
-<details>
-<summary><b>Tool registry, storage layer and chat response (click to expand)</b></summary>
-
-![Architecture detail](assets/architecture-detail.png)
-
-</details>
+<p align="center">
+  <img width="654" alt="watsonx SAL + Lakehouse architecture — semiconductor defect and trace analytics, fully on-premises" src="https://github.com/user-attachments/assets/45450367-71c4-412e-ab35-5bc48875b7ab" />
+</p>
 
 Full walkthrough: **[docs/architecture.md](docs/architecture.md)**
 
@@ -125,8 +122,7 @@ Impact areas: reduced time and manual effort on routine tasks; improved accuracy
 │   ├── solution-overview.md        ← problem, benefits, impact
 │   └── demo-script.md              ← what the demo video shows, step by step
 └── assets/
-    ├── architecture-overview.png
-    ├── architecture-detail.png
+    ├── architecture.png         ← full flow diagram
     └── demo/                       ← video, GIF, thumbnail, screenshots
 ```
 
